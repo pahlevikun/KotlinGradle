@@ -8,7 +8,7 @@ object Apps {
 }
 
 object Versions {
-    const val gradle = "3.5.0"
+    const val gradle = "3.5.3"
     const val kotlin = "1.3.50"
     const val appcompat = "1.1.0"
 
